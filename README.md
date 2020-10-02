@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/300676627.svg)](https://zenodo.org/badge/latestdoi/300676627)
 This code is copyright October 2020 by Zeke A. Piskulich and Ward H. Thompson, University of Kansas. If you have any questions, please feel free to reach out to the authors at piskulichz at gmail dot com. The authors provide permission for this code to be used and shared as desired for non-commerical purposes. All other rights reserved.
 
 # README
