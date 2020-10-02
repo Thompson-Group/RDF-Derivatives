@@ -1,3 +1,5 @@
+This code is copyright October 2020 by Zeke A. Piskulich and Ward H. Thompson, University of Kansas. If you have any questions, please feel free to reach out to the authors at piskulichz at gmail dot com. The authors provide permission for this code to be used and shared as desired for non-commerical purposes. All other rights reserved.
+
 # README
 
 ## Compilation
@@ -5,7 +7,7 @@
 To compile this code, use the following:
 
 ```
-pgfortran -O3 -mcmodel=medium epairdist.f90 -o calc_gofr.exe
+pgfortran -O3 -mcmodel=medium pairdist.f90 -o calc_gofr.exe
 ```
 
 
